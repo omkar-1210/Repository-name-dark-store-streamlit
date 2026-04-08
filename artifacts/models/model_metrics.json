@@ -1,0 +1,10 @@
+{
+  "mae": 398.64,
+  "rmse": 1510.77,
+  "bias": 21.75,
+  "baseline_mae": 366.11,
+  "baseline_rmse": 1195.3,
+  "model_cost_total": 19937421.76,
+  "baseline_cost_total": 16609890.0,
+  "savings_pct": -20.03
+}
